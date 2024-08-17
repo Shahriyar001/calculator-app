@@ -61,3 +61,7 @@ button {
 .operator {
   color: #6dee0a;
 }
+
+button:hover {
+  background-color: #3a4452;
+}
